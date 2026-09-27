@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+
+#first {
+    color: blue; 
+    font-size: 36px; 
+    font-family: verdana, "dejavu sans", sans-serif; 
+}
+
+.second {
+    background-color: pink;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#another {
+    background-color: green; 
+    font-size: 25px;
+    font-weight: 1000;
+}
